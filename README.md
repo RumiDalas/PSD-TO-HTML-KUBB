@@ -1,2 +1,3 @@
 # PSD-TO-HTML-KUBB
-This is psd to html project.
+HTML5 and CSS3
+No Boostrap , No Js
