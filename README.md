@@ -1,3 +1,13 @@
-# PSD-TO-HTML-KUBB
-HTML5 and CSS3
-No Boostrap , No Js
+
+HTML5
+
+CSS3
+
+This TEMPLATE PSD TO HTML PRACTICE.
+
+
+#NO BOOSTRAP #NO JS nd JQ PLUGIN
+
+
+
+Here is live link https://rumidalas.github.io/PSD-TO-HTML-KUBB/
